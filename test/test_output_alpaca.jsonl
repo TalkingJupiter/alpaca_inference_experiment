@@ -1,0 +1,6 @@
+{"timestamp": "2025-07-29T14:48:37.379963", "model": "BERT", "input_len": 7, "inference_time_sec": 0.11939620971679688, "power_watts": 81.354, "text_snippet": "Give three tips for staying healthy."}
+{"timestamp": "2025-07-29T14:48:37.500476", "model": "BERT", "input_len": 7, "inference_time_sec": 0.0036666393280029297, "power_watts": 81.354, "text_snippet": "What are the three primary colors?"}
+{"timestamp": "2025-07-29T14:48:37.504802", "model": "BERT", "input_len": 7, "inference_time_sec": 0.0033974647521972656, "power_watts": 81.354, "text_snippet": "Describe the structure of an atom."}
+{"timestamp": "2025-07-29T14:48:37.508625", "model": "DistilBERT", "input_len": 7, "inference_time_sec": 0.00180816650390625, "power_watts": 81.354, "text_snippet": "Give three tips for staying healthy."}
+{"timestamp": "2025-07-29T14:48:37.510898", "model": "DistilBERT", "input_len": 7, "inference_time_sec": 0.0017213821411132812, "power_watts": 81.354, "text_snippet": "What are the three primary colors?"}
+{"timestamp": "2025-07-29T14:48:37.513038", "model": "DistilBERT", "input_len": 7, "inference_time_sec": 0.0016913414001464844, "power_watts": 81.354, "text_snippet": "Describe the structure of an atom."}
